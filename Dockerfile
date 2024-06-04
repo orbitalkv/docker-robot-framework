@@ -70,6 +70,7 @@ RUN dnf upgrade -y --refresh \
     gcc \
     gcc-c++ \
     npm \
+    maven \
     nodejs \
     python3-pip \
     python3-pyyaml \
